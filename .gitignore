@@ -1,0 +1,5 @@
+models/yolov8n.pt
+models/yolov8n.onnx
+*.onnx
+*.dll
+*.pyd
