@@ -1,5 +1,5 @@
 # Fire Detection Stream - Real-Time Fire & Smoke Detection
-
+![image](assets\alert.jpeg)
 A climate tech project designed with a focus on environmental monitoring, sustainable development, and computer vision. The application leverages artificial intelligence to detect early-stage wildfires and smoke plumes. The system is structurally optimized for deployment on embedded hardware, such as the NVIDIA Jetson Nano, ensuring reliable, low-latency video processing in the field.
 
 ## Key Features
